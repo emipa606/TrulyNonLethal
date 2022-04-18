@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Truly Non-Lethal (TNL) 1.0</name>
+  <author>J.C Denton</author>
+  <url>
+  </url>
+  <targetVersion>1.0.0</targetVersion>
+  <description>A mod that makes all blunt damage (Except cracks, for balance reasons.) do both consciousness damage and increase pain.</description>
+</ModMetaData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/HediffDef[defName = "Crush" or defName = "Bruise"]</xpath>
+    <value>
+      <stages>
+        <li>
+          <capMods>
+            <li>
+              <capacity>Consciousness</capacity>
+              <offset>-0.09</offset>
+            </li>
+          </capMods>
+        </li>
+      </stages>
+    </value>
+  </Operation>
+</Patch>
